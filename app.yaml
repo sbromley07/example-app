@@ -10,3 +10,7 @@ handlers:
 libraries:
 - name: ssl
   version: latest
+ - name: jinja2
+  version: "2.6"
+- name: markupsafe
+  version: "0.15"
